@@ -61,7 +61,7 @@ Para publicar e ler mensagens, usaremos o client.py.
 Execute o cliente, apontando para a porta de qualquer hub ativo (por exemplo, o Hub A na porta 9001):
 
  ```bash
- - python hub.py 9002 9001 9003
+ python client.py 9001
  ```
 
 Você verá um prompt cliente>. Use os seguintes comandos:
